@@ -1,0 +1,8 @@
+created: 20210328093533648
+modified: 20210328093731532
+tags: $:/tags/Link Themes
+title: Modular theme
+type: text/vnd.tiddlywiki
+url: https://bimlas.gitlab.io/tw5-modular-theme-maple-palette/#%24%3A%2Fthemes%2Fbimlas%2Fmodular
+
+The Modular theme makes individual style modifications (stylesheet components) optional, so you can enable each change individually to create the look that works best for you. For example, if you want to display tiddlers without borders and centered (Seamless + Centralized TiddlyWiki theme), just turn on the appropriate components.

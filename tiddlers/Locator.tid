@@ -1,0 +1,8 @@
+created: 20210328094253612
+modified: 20210328094544942
+tags: $:/tags/Link TableOfContents Search Filter Sidebar Tags Fields
+title: Locator
+type: text/vnd.tiddlywiki
+url: https://bimlas.gitlab.io/tw5-locator
+
+Locator provides a universal interface for navigating between your tiddlers and searching, filtering them without the need to write filter expressions. The plugin contains a table of contents macro and an enhanced search engine that contains a visual filter builder to filter results by tags and field values. You can organize the tiddlers to any number of trees, even by custom fields or links in text. Unlike classic Table of Contents, standard search, filter search and list of tags, this plugin handles these functions organically.
