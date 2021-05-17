@@ -1,0 +1,10 @@
+created: 20210517193526210
+modified: 20210517194953086
+tags: $:/tags/Link Coding Developer Integration Node.js
+title: Navi cheatsheet
+type: text/vnd.tiddlywiki
+url: https://bimlas.gitlab.io/tw5-navi-cheatsheet/
+
+Navi is an interactive cheatsheet tool for the command-line: it allows you to browse through cheatsheets (that you may write yourself or download from maintainers) and execute commands. This is a great way to replace shell aliases, one-liners and short scripts with a searchable "snippet database".
+
+Many keep these terminal snippets in their own description of the related program. This plugin helps you to access the snippets in your notes directly from the command line using Navi.
