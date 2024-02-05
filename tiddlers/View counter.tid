@@ -3,6 +3,6 @@ modified: 20210328094243501
 tags: $:/tags/Link Counting Utilities Statistics
 title: View counter
 type: text/vnd.tiddlywiki
-url: https://bimlas.gitlab.io/tw5-viewcounter/
+url: https://bimlas.github.io/tw5-viewcounter/
 
 Count the opening of tiddlers and store the time of the last opening.

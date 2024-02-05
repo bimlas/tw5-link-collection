@@ -3,6 +3,6 @@ modified: 20210328093448459
 tags: $:/tags/Link Search
 title: Highlight searched text
 type: text/vnd.tiddlywiki
-url: https://bimlas.gitlab.io/tw5-highlight-searched-text/
+url: https://bimlas.github.io/tw5-highlight-searched-text/
 
 Highlight the keywords of search input, "find in page" for Android and TiddlyDesktop.

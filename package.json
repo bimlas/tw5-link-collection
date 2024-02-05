@@ -1,0 +1,11 @@
+{
+  "name": "tw5-link-collection",
+  "author": "bimlas",
+  "scripts": {
+    "build": "npm run build:html",
+    "build:html": "tiddlywiki --build index"
+  },
+  "dependencies": {
+    "tiddlywiki": "^5.3.3"
+  }
+}

@@ -3,6 +3,6 @@ modified: 20210328095024035
 tags: $:/tags/Link ActionWidget
 title: Override navigation: handle links differently
 type: text/vnd.tiddlywiki
-url: https://bimlas.gitlab.io/tw5-override-navigation/
+url: https://bimlas.github.io/tw5-override-navigation/
 
 The plugin contains a new, irregular action-overridenavigation ActionWidget, which instead of performing the action immediately, performs it at the next navigation (when you open an internal link) or tab switch. For example, we can determine that if we click on a link, we would like to open in edit mode.
